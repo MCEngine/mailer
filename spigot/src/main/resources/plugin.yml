@@ -1,0 +1,5 @@
+author: MCEngine
+name: Mailer
+version: ${version}
+main: com.github.mcengine.Mailer
+api-version: 1.17

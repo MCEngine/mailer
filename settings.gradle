@@ -1,0 +1,14 @@
+/*
+    GitHub: https://github.com/MCEngine/mailer
+*/
+rootProject.name = 'mcengine-mailer'
+
+/*
+    Core
+*/
+include('common')
+
+/*
+    Server
+*/
+include('spigot')
