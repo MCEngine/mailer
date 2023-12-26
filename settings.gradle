@@ -4,6 +4,11 @@
 rootProject.name = 'mcengine-mailer'
 
 /*
+    Storage
+*/
+include('mysql')
+
+/*
     Core
 */
 include('common')
