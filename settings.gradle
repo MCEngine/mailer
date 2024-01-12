@@ -1,7 +1,7 @@
 /*
     GitHub: https://github.com/MCEngine/mailer
 */
-rootProject.name = 'mcengine-mailer'
+rootProject.name = 'mcenginemailer'
 
 /*
     Storage
