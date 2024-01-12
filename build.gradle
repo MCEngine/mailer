@@ -96,7 +96,7 @@ publishing {
 shadowJar {
     version = version
     archiveClassifier = null
-    archiveBaseName.set('Mailer')
+    archiveBaseName.set('MCEngineMailer')
 }
 
 jar.enabled = false
